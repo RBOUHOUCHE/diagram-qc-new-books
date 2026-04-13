@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Part A — Flowchart" id="I4VC9SCfA8Z76yl1JZ0H">
-    <mxGraphModel dx="1917" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1917" dy="1448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,9 +74,6 @@
         <mxCell id="4hzYk2HyrmjdZMKnMG-E-21" edge="1" parent="1" source="4hzYk2HyrmjdZMKnMG-E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="4hzYk2HyrmjdZMKnMG-E-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4hzYk2HyrmjdZMKnMG-E-23" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(0, 245, 255, 0.08); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;QC NewBooks — Post EntryLogic&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="90" width="440" x="190" y="10" as="geometry" />
-        </mxCell>
         <mxCell id="4hzYk2HyrmjdZMKnMG-E-54" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=light-dark(#000000,#CC0000);startSize=6;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -134,6 +131,9 @@
             <mxPoint x="-20" y="650" as="sourcePoint" />
             <mxPoint x="270" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="85Z3d-nKYUeXOb-GvzM5-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 115, 123); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; box-shadow: none !important;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 18px; box-shadow: none !important;&quot;&gt;&lt;b&gt;QC NewBooks — Post EntryLogic&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="490" x="160" y="-10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
