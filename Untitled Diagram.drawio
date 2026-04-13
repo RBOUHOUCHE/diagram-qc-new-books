@@ -1,16 +1,1 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="page 1" id="41lIqZZo-sZ7QSs0BHUt">
-    <mxGraphModel dx="1209" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="r-HE0QfRtaqvk_k064TQ-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410.0526315789473" y="130" as="sourcePoint" />
-            <mxPoint x="410" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+
